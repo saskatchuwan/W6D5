@@ -1,0 +1,10 @@
+.cheese {
+  justify-content: center;
+  background: salmon;
+  display: flex;
+  width: 400px;
+}
+
+/* body {
+  background: aquamarine;
+} */
